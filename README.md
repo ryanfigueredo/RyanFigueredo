@@ -30,6 +30,7 @@ Estudando Vue.js e curso Tecnologia em Sistemas de Computação na UFF.
   <a href="https://www.linkedin.com/in/ryan-figueredo-666793214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  
+  <div>
    <img algin="right" alt="gif" src="https://cdn.discordapp.com/attachments/957884398026518578/959345558995206204/black_cat.gif">
-   <img align="right" height="30" alt="gif" src="https://cdn.discordapp.com/attachments/957884398026518578/959355272135082014/emoji_41.png">
+   <img align="right" height="60" alt="gif" src="https://cdn.discordapp.com/attachments/957884398026518578/959355272135082014/emoji_41.png">
+  </div>
