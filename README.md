@@ -4,8 +4,8 @@ Estudando Vue.js e curso Tecnologia em Sistemas de Computação na UFF.
 
 <div align="center">
   <a href="https://github.com/ryanfiguered">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=ryanfiguered&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanfiguered&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=ryanfigueredo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanfigueredo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
