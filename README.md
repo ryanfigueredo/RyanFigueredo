@@ -32,4 +32,4 @@ Estudando Vue.js e curso Tecnologia em Sistemas de Computação na UFF.
 </div>
   
    <img algin="right" alt="gif" src="https://cdn.discordapp.com/attachments/957884398026518578/959345558995206204/black_cat.gif">
-   <img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/957884398026518578/959355272135082014/emoji_41.png">
+   <img align="right" height="30" alt="gif" src="https://cdn.discordapp.com/attachments/957884398026518578/959355272135082014/emoji_41.png">
