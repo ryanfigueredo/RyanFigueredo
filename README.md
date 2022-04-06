@@ -1,4 +1,4 @@
-## Oi, me chamo Ryan Figueredo!
+## Oi, me chamo Ryan,
 Hoje trabalho com Front-End, e desenvolvimento Discord.js
 Estudando Vue.js e curso Tecnologia em Sistemas de Computação na UFF.
 
