@@ -1,7 +1,7 @@
 ## Oi, me chamo Ryan,
-> Estudante Full Stack na Rocket Seat.
-> Tecnologia em Sistemas de Computação na UFF.
-> De Seabra - BA, em Nova Friburgo - RJ
+> Estudante Full Stack na Rocket Seat. <br>
+> Tecnologia em Sistemas de Computação na UFF.<br>
+> de Seabra - BA, em Nova Friburgo - RJ
 
 <div align="center">
   <a href="https://github.com/ryanfigueredo">
