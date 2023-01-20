@@ -6,8 +6,7 @@
 <div align="center">
   <a href="https://github.com/ryanfigueredo">
   <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=ryanfigueredo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true](https://github-stats-alpha.vercel.app/api?username={ryanfigueredo})"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanfigueredo&layout=compact&langs_count=7&theme=midnight-purple](https://github-readme-stats.vercel.app/api/pin/?ryanfigueredo=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
-)"/>
+
 </div>
   
 <div style="display: inline_block"><br>
