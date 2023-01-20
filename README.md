@@ -3,7 +3,7 @@ Hoje trabalho com Front-End, e desenvolvimento Discord.js
 Estudando Vue.js e curso Tecnologia em Sistemas de Computação na UFF.
 
 <div align="center">
-  <a href="https://github.com/ryanfiguered">
+  <a href="https://github.com/ryanfigueredo">
   <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=ryanfigueredo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanfigueredo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
