@@ -10,7 +10,7 @@ Hi, I'm Ryan!
 - 🎓 In training Technology in Computer Systems at the Fluminense Federal University
 
 <div align="center">
- <img width="340" src="https://github-readme-stats.vercel.app/api?username=ryanfigueredo&theme=dark&show_icons=true" />
+ 
 </div>
   
 <div style="display: inline_block">
@@ -24,6 +24,8 @@ Hi, I'm Ryan!
   <img align="center" alt="Ryan-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Ryan-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Ryan-Discord" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg">
+ 
+ <img align="left" width="340" src="https://github-readme-stats.vercel.app/api?username=ryanfigueredo&theme=dark&show_icons=true" />
                   
   </div>
     
