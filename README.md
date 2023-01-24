@@ -8,7 +8,6 @@ Hi, I'm Ryan!
 - ⚛️ JavaScript | CSS | HTML | SQL | UX/UI
 - 📖 Student on Explorer RocketSeat course
 - 🎓 In training Technology in Computer Systems at the Fluminense Federal University
-- 
 
 <div align="center">
   <a href="https://github.com/ryanfigueredo">
