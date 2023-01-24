@@ -10,11 +10,7 @@ Hi, I'm Ryan!
 - 🎓 In training Technology in Computer Systems at the Fluminense Federal University
 
 <div align="center">
-  <a href="https://github.com/ryanfigueredo">
-    
-    
-  <img height="140cm" src="[https://github-readme-stats.vercel.app/api?username=ryanfigueredo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true](https://github-stats-alpha.vercel.app/api?username={ryanfigueredo})](https://camo.githubusercontent.com/90badf6b7d1ae349848202c9b10e25fac66f235cacb35dc7b78b9c6d58229216/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6f6d6e69)"/>
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ryanfigueredo=anuraghazra&theme=dark&show_icons=true)
 </div>
   
 <div style="display: inline_block">
