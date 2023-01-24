@@ -10,7 +10,7 @@ Hi, I'm Ryan!
 - 🎓 In training Technology in Computer Systems at the Fluminense Federal University
 
 <div align="center">
- <img width="540" src="https://github-readme-stats.vercel.app/api?username=ryanfigueredo&theme=dark&show_icons=true" />
+ <img width="340" src="https://github-readme-stats.vercel.app/api?username=ryanfigueredo&theme=dark&show_icons=true" />
 </div>
   
 <div style="display: inline_block">
