@@ -1,7 +1,12 @@
-## Oi, me chamo Ryan,
-> Estudante Full Stack na Rocket Seat. <br>
-> Tecnologia em Sistemas de Computação na UFF.<br>
-> de Seabra - BA, em Nova Friburgo - RJ
+Hi, I'm Ryan!
+
+* * *
+
+**About me:**
+- 💻 I'm web developer since 2022
+- 🌎 I was a graphic designer for a while, but today I'm focused on becoming a front-end developer
+- ⚛️ JavaScript | CSS | HTML
+
 
 <div align="center">
   <a href="https://github.com/ryanfigueredo">
@@ -14,9 +19,11 @@
   <img align="center" alt="Ryan-Discord" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg">
   <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ryan-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Ryan-SQL" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)">
+          
+<!--   <img align="center" alt="Ryan-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Ryan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-   <img align="center" alt="Ryan-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
+   <img align="center" alt="Ryan-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" > -->
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
    
 </div>
@@ -31,8 +38,10 @@
   <a href="https://www.linkedin.com/in/ryan-figueredo-666793214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
  
 </div>
+  
   <div>
    <img align="right" height="60" alt="gif" src="https://cdn.discordapp.com/attachments/957884398026518578/959345558995206204/black_cat.gif">
-   <img align="right" height="60" alt="gif" src="https://cdn.discordapp.com/attachments/957884398026518578/959355272135082014/emoji_41.png">
-  <img align="right" height="60" alt="gif" src="https://cdn.discordapp.com/attachments/957884398026518578/959355672150036510/red_broken.png">
   </div>
+
+  
+  **🚀 let's rock the future!**
