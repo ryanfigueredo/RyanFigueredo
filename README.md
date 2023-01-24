@@ -5,7 +5,7 @@ Hi, I'm Ryan!
 **About me:**
 - 💻 I'm web developer since 2022
 - 🌎 I was a graphic designer for a while, but today I'm focused on becoming a front-end developer
-- ⚛️ JavaScript | CSS | HTML
+- ⚛️ JavaScript | CSS | HTML | SQL | UX/UI
 
 
 <div align="center">
@@ -20,12 +20,7 @@ Hi, I'm Ryan!
   <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ryan-SQL" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)">
-          
-<!--   <img align="center" alt="Ryan-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Ryan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-   <img align="center" alt="Ryan-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" > -->
-  <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-   
+   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
 ##
