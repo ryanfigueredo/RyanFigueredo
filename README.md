@@ -25,6 +25,8 @@ Hi, I'm Ryan!
   <img align="center" alt="Ryan-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Ryan-Discord" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg">
  
+ <img align="right" height="60" alt="gif" src="https://cdn.discordapp.com/attachments/957884398026518578/959345558995206204/black_cat.gif">
+ 
  <img align="left" width="340" src="https://github-readme-stats.vercel.app/api?username=ryanfigueredo&theme=dark&show_icons=true" />
                   
   </div>
@@ -39,10 +41,6 @@ Hi, I'm Ryan!
   <a href="https://www.linkedin.com/in/ryan-figueredo-666793214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
  
 </div>
-  
-  <div>
-   <img align="right" height="60" alt="gif" src="https://cdn.discordapp.com/attachments/957884398026518578/959345558995206204/black_cat.gif">
-  </div>
-
+ 
   
   **🚀 let's rock the future!**
