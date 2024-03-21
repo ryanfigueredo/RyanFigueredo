@@ -5,7 +5,7 @@ Hi, I'm Ryan!
 **About me:**
 - 💻 I'm web developer since 2021/2
 - 🌎 I was a graphic designer for a while, but today I'm focused on becoming a front-end developer
-- ⚛️ JavaScript | CSS | HTML | SQL | UX/UI
+- ⚛️ JavaScript | React | SQL | UX/UI
 - 📖 Student on Explorer RocketSeat course
 - 🎓 In training Technology in Computer Systems at the Fluminense Federal University
 
