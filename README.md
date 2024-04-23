@@ -4,9 +4,9 @@ Hi, I'm Ryan!
 
 **About me:**
 - 💻 I'm web developer since 2021/2
-- 🌎 I was a graphic designer for a while, but today I'm focused on becoming a front-end developer
-- ⚛️ JavaScript | React | SQL | UX/UI
-- 📖 Student on Explorer RocketSeat course
+- 🌎 I was a full stack developer
+- ⚛️ JavaScript | Java | React | SQL | UX/UI 
+- 📖 Student on Ignite RocketSeat course
 - 🎓 In training Technology in Computer Systems at the Fluminense Federal University
 
 <div align="center">
@@ -18,8 +18,6 @@ Hi, I'm Ryan!
 **Languages and tools:**
  
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ryan-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Ryan-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Ryan-Discord" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg">
