@@ -1,9 +1,8 @@
 <h1>👋 &nbsp;Olá, eu sou o Ryan, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
-<a href="https://instagram.com/ryanfigueredo"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
-<a href="https://www.linkedin.com/in/ryanfig"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ryancontatof8@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ryanfiguered0"><img src="https://img.shields.io/badge/-@ryanfiguered0_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ryanfig"><img src="https://img.shields.io/badge/-Ryan_Figueredo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ryancontatof8@gmail.com"><img src="https://img.shields.io/badge/-ryancontatof8@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
