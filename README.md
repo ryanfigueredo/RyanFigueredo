@@ -7,7 +7,7 @@ Founder at DMTN Sistemas. I build B2B SaaS end to end with Next.js, Node, Prisma
 - **KL Drive** — vehicle and fuel management with dashboards and a performance profile.
 - **KL Facilities (Checklist)** — operational checklists and reports; web now, mobile next.
 - **Receivables Platform** — issue invoices, control payments, borderô PDF, and early payment; NextAuth + Postgres.
-- **Elias** — document management with AWS S3 uploads, batches, and roles (admin/consultant/master).
+- **Document Management** — AWS S3 uploads, batches, and roles (admin/consultant/master).
 - **Accounting Marketplace (MVP)** — pro validation, service routing, and payment hold until delivery.
 - **Payment integrations** — Pix with Mercado Pago (transparent checkout), unique keys, and webhooks.
 
