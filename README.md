@@ -1,38 +1,32 @@
-<h1>👋 &nbsp;Olá, eu sou o Ryan, um desenvolvedor full stack apaixonado pelo que faz!</h1>
-<p align="center">
-<a href="https://instagram.com/ryanfiguered0"><img src="https://img.shields.io/badge/-@ryanfiguered0_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ryanfig"><img src="https://img.shields.io/badge/-Ryan_Figueredo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ryancontatof8@gmail.com"><img src="https://img.shields.io/badge/-ryancontatof8@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+# Ryan Figueredo
 
-</p>
+Full Stack Developer · Curitiba, Brazil  
+Founder at DMTN Sistemas. I build B2B SaaS end to end with Next.js, Node, Prisma, and PostgreSQL (deploy on Vercel/AWS). My focus is fintech, operations, and Pix automation.
 
-<h2>👨🏻‍💻 &nbsp;Sobre Mim</h2>
+## What I am building
+- **KL Drive** — vehicle and fuel management with dashboards and a performance profile.
+- **KL Facilities (Checklist)** — operational checklists and reports; web now, mobile next.
+- **Receivables Platform** — issue invoices, control payments, borderô PDF, and early payment; NextAuth + Postgres.
+- **Elias** — document management with AWS S3 uploads, batches, and roles (admin/consultant/master).
+- **Accounting Marketplace (MVP)** — pro validation, service routing, and payment hold until delivery.
+- **Payment integrations** — Pix with Mercado Pago (transparent checkout), unique keys, and webhooks.
 
-- 👨🏻‍💻 &nbsp; Profissional dinâmico e altamente motivado, em fase de graduação em Sistemas de Informação, com forte expertise em desenvolvimento web e mobile. Minha trajetória é marcada pela combinação de habilidades técnicas e uma sólida experiência em publicidade e marketing, design gráfico, e UI/UX, que enriquecem minha abordagem na criação de soluções digitais.
-- 🚀 &nbsp; Apaixonado por tecnologia desde jovem, meu interesse por programação começou cedo e evoluiu para uma carreira focada em desenvolvimento de software. Tenho experiência na construção de aplicações robustas utilizando JavaScript (Node.js, React.js, e React Native), tanto para plataformas web quanto mobile, com ênfase em design responsivo e interfaces intuitivas.
-- 🌎 &nbsp; Atualmente, estou sediado no Rio de Janeiro. Trago uma perspectiva multicultural, nascido em Feira de Santana e com vivências que abrangem a Chapada Diamantina e Nova Friburgo, RJ, o que enriquece minha visão de mundo e capacidade de adaptação a diferentes contextos.
--  💼 &nbsp; Focado em desenvolver soluções escaláveis, colaboro de forma ativa em projetos que demandam inovação e eficiência tecnológica. Meu compromisso com a excelência é guiado por um desejo constante de aprendizado e melhoria contínua, sempre visando o sucesso e a satisfação do usuário final.
+## Tech stack
+- **Front end:** Next.js 14, React, TypeScript, Tailwind, shadcn/ui  
+- **Back end:** Node.js, Prisma ORM, PostgreSQL (Supabase/Neon)  
+- **Auth:** NextAuth (Credentials/JWT)  
+- **Infra:** Vercel, AWS S3, Nginx  
+- **Data/BI:** Google Sheets, Looker Studio  
+- **Payments:** Mercado Pago (Pix)
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+## Recent highlights
+- Borderô **PDF generation** with financial math and configurable fees.  
+- Admin panels with **role-based access** and audit.  
+- **Digital key delivery** after payment, with reuse blocked.  
+- Daily **finance dashboards** for clear decisions.
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+## How I can help
+I design and ship B2B SaaS, Pix payment flows, operational dashboards, process automation, and upgrades to a modern stack.
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
-
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-
-![Ryan Figueredo GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanfigueredo&show_icons=true&theme=dracula)
+## Links
+Website: ryanfigueredo.com • LinkedIn: in/ryanfig • Contact: via website or LinkedIn
